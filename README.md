@@ -83,9 +83,9 @@ Structured in Markdown + CSV logs to maintain field clarity and audit readiness.
 ## 🌍 Let's Connect
 
 📧 **Email:** deevid679@gmail.com  
-📱 **Phone:** +254 702 787 399 / +254 796 566 200  
-🔗 **LinkedIn:** _Coming soon_  
-🛠️ **GitHub:** [github.com/YOUR_USERNAME](https://github.com/davidgitonga)
+📱 **Phone:** +254 702 787 399
+🔗 **LinkedIn:** https://www.linkedin.com/in/david-gitonga-509ab8116?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🛠️ **GitHub:** [github.com/davidgitonga](https://github.com/davidgitonga)
 
 ---
 
