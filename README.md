@@ -67,8 +67,8 @@ Structured in Markdown + CSV logs to maintain field clarity and audit readiness.
 
 - 📡 **Network Maintenance Technician** – Novia East Africa (2024 – Present)  
 - 🛠️ **Cashier Attendant (Tech Lead)** – Sayen Hyperstore (2021 – 2024)  
-- 🌍 **Junior Network Technician** – Chuka Referral Hospital (2020)  
-- 🖥️ **IT Help Desk Technician** – Chogoria Mission Hospital (2019)
+- 🌍 **Junior Network Support** – Chuka Referral Hospital (2020)  
+- 🖥️ **IT Help Desk Support** – Chogoria Mission Hospital (2019)
 
 ---
 
