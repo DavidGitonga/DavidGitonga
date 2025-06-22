@@ -1,4 +1,4 @@
-# 👨‍💻 David Ngacha Gitonga
+# 👨‍💻 David Gitonga
 Network Maintenance Technician 
 NOVIA EAST AFRICA LIMITED 
 ISP PROVIDER 
