@@ -3,15 +3,15 @@ Network Maintenance Technician
 NOVIA EAST AFRICA LIMITED 
 ISP PROVIDER 
 
-**Network Maintenance Technician | System Administrator | Cybersecurity Enthusiast**  
+**Network Maintenance Technician | System Administrator | Graphic Designer 
 📍 Nairobi, Kenya | 📧 deevid679@gmail.com | 🔗 [LinkedIn Profile](#)  
-📡 Fiber Optics • Network Infrastructure • Linux Admin • Cyber Defense
+📡 Fiber Optics • Network Infrastructure • Vibe Coder-Prompt Engineering • UI/UX Designer
 
 ---
 
 ## 💡 About Me
 
-I am a detail-oriented and mission-driven Computer Science graduate with hands-on experience in **network engineering**, **system administration**, and **cybersecurity**. I thrive in environments that demand **real-time troubleshooting**, **network optimization**, and **secure systems design**.
+I am a detail-oriented and mission-driven Computer Science graduate with hands-on experience in **network engineering**, **system administration**, and **graphic design**. I thrive in environments that demand **real-time troubleshooting**, **network optimization**, and **graphic UI design**.
 
 With both hospital-grade IT support and infrastructure-level fiber maintenance under my belt, I aim to bridge **technical efficiency** with **end-user satisfaction**. My career objective is to deliver scalable and secure IT solutions that transform how teams communicate, diagnose, and solve problems.
 
@@ -20,12 +20,12 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
 ## 🔧 Tech Stack & Skills
 
 - **Networking:** Cisco IOS, MikroTik, VLANs, DHCP, VPNs, NAT
-- **System Admin:** Linux (Debian/Ubuntu), Bash, Active Directory, Windows Server
+- **Graphic Design:** Adobe Photoshop, Canva, Adobe Express 
 - **Fiber Optics:** OTDR Testing, Power Meter & Light Source, Splicing
 - **Cybersecurity:** Firewalls, Endpoint Security, Basic Penetration Testing
 - **Databases:** MySQL, PostgreSQL, SQL Server
-- **Tools:** Wireshark, GNS3, VMWare, Visual Studio Code, Git, Zabbix
-- **Languages:** Python, Bash, SQL, C++
+- **Tools:** Wireshark, GNS3, VMWare, Visual Studio Code, Git
+- **Languages:** Python, Tailwind, Firebase, JavaScript 
 
 ---
 
