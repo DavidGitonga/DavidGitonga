@@ -1,4 +1,4 @@
-# 👨‍💻 PORTFOLIO SHOWCASE 
+# 👨‍💻 PORTFOLIO 
 Network Maintenance Technician 
 NOVIA EAST AFRICA LIMITED 
 ISP PROVIDER 
@@ -45,7 +45,7 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
     <img src="https://img.shields.io/badge/Cisco-IOS-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS" style="box-shadow: 0px 2px 15px #b2fefa;"/>
     <img src="https://img.shields.io/badge/MikroTik-Networks-fuchsia?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" style="box-shadow: 0px 2px 15px #fd6e6a;"/>
     <img src="https://img.shields.io/badge/VLANs-Network-orange?style=for-the-badge" alt="VLANs" style="box-shadow: 0px 2px 15px #fda085;"/>
-    <img src="https://img.shields.io/badge/DHCP-&-VPNs-purple?style=for-the-badge" alt="DHCP&VPNs" style="box-shadow: 0px 2px 15px #a8edea;"/>
+    <img src="https://img.shields.io/badge/DHCP-&-VPNs-purple?style=for-the-badge" alt="" style="box-shadow: 0px 2px 15px #a8edea;"/>
     <img src="https://img.shields.io/badge/Firewalls-Security-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Firewalls" style="box-shadow: 0px 2px 15px #f7797d;"/>
     <img src="https://img.shields.io/badge/Photoshop-Adobe-blueviolet?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" style="box-shadow: 0px 2px 15px #e0c3fc;"/>
     <img src="https://img.shields.io/badge/Canva-Design-skyblue?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" style="box-shadow: 0px 2px 15px #43cea2;"/>
