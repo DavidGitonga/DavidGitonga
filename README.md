@@ -1,7 +1,9 @@
 # 👨‍💻 PORTFOLIO 
 Network Maintenance Technician 
+
 NOVIA EAST AFRICA LIMITED 
-ISP PROVIDER 
+
+ISP PROVIDER, KENYA.
 
 **Network Maintenance Technician | System Administrator | Graphic Designer 
 📍 Nairobi, Kenya | 📧 deevid679@gmail.com | 🔗 [LinkedIn Profile](#)  
