@@ -82,7 +82,7 @@ English and Swahili
 ## ✍️ Developer Byte
 
 <!-- You can use a quote generator API or manually update this section -->
-> "Code is like humor. Only Vibe Coders in 2025 get the joke." – Cory House
+> "Code is like humor. Only Vibe Coders in 2025 get the joke." – UNKNOWN ML/AI Architect
 
 ---
 
