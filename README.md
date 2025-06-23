@@ -25,7 +25,42 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
 - **Cybersecurity:** Firewalls, Endpoint Security, Basic Penetration Testing
 - **Databases:** MySQL, PostgreSQL, SQL Server
 - **Tools:** Wireshark, GNS3, VMWare, Visual Studio Code, Git
-- **Languages:** Python, Tailwind, Firebase, JavaScript 
+- **Languages:** Python, Tailwind, Firebase, JavaScript
+  <div align="center" style="position: relative;">
+  <!-- Colorful Patterns as background using SVG -->
+  <svg height="110" width="100%" style="position:absolute; left:0; top:0; z-index:-1; opacity:0.1;">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:rgb(255,0,150);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgb(0,204,255);stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <ellipse cx="15%" cy="60" rx="140" ry="30" fill="url(#grad1)" />
+    <ellipse cx="80%" cy="40" rx="120" ry="20" fill="#ffce45" opacity="0.4"/>
+    <ellipse cx="50%" cy="90" rx="180" ry="15" fill="#34e89e" opacity="0.3"/>
+  </svg>
+
+  <!-- Tech Stack as Floating Buttons -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Cisco-IOS-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS" style="box-shadow: 0px 2px 15px #b2fefa;"/>
+    <img src="https://img.shields.io/badge/MikroTik-Networks-fuchsia?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" style="box-shadow: 0px 2px 15px #fd6e6a;"/>
+    <img src="https://img.shields.io/badge/VLANs-Network-orange?style=for-the-badge" alt="VLANs" style="box-shadow: 0px 2px 15px #fda085;"/>
+    <img src="https://img.shields.io/badge/DHCP-&-VPNs-purple?style=for-the-badge" alt="DHCP & VPNs" style="box-shadow: 0px 2px 15px #a8edea;"/>
+    <img src="https://img.shields.io/badge/Firewalls-Security-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Firewalls" style="box-shadow: 0px 2px 15px #f7797d;"/>
+    <img src="https://img.shields.io/badge/Photoshop-Adobe-blueviolet?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" style="box-shadow: 0px 2px 15px #e0c3fc;"/>
+    <img src="https://img.shields.io/badge/Canva-Design-skyblue?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" style="box-shadow: 0px 2px 15px #43cea2;"/>
+    <img src="https://img.shields.io/badge/OTDR-Fiber-green?style=for-the-badge" alt="OTDR Fiber" style="box-shadow: 0px 2px 15px #8fd3f4;"/>
+    <img src="https://img.shields.io/badge/MySQL-DBMS-orange?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="box-shadow: 0px 2px 15px #f7971e;"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-DB-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="box-shadow: 0px 2px 15px #56ccf2;"/>
+    <img src="https://img.shields.io/badge/Wireshark-Analysis-blue?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" style="box-shadow: 0px 2px 15px #43cea2;"/>
+    <img src="https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="box-shadow: 0px 2px 15px #ffe259;"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-Design-cyan?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="box-shadow: 0px 2px 15px #76e2fe;"/>
+    <img src="https://img.shields.io/badge/JavaScript-Programming-gold?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="box-shadow: 0px 2px 15px #fbc2eb;"/>
+    <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" style="box-shadow: 0px 2px 15px #f7971e;"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="box-shadow: 0px 2px 15px #43cea2;"/>
+    <img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="box-shadow: 0px 2px 15px #f7797d;"/>
+  </div>
+</div>
 
 Welcome to my GitHub profile. Here’s a snapshot of what I do and how you can connect with me.
 
