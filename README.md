@@ -18,14 +18,6 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
 ---
 
 ## 🔧 Tech Stack & Skills
-
-- **Networking:** Cisco IOS, MikroTik, VLANs, DHCP, VPNs, NAT
-- **Graphic Design:** Adobe Photoshop, Canva, Adobe Express 
-- **Fiber Optics:** OTDR Testing, Power Meter & Light Source, Splicing
-- **Cybersecurity:** Firewalls, Endpoint Security, Basic Penetration Testing
-- **Databases:** MySQL, PostgreSQL, SQL Server
-- **Tools:** Wireshark, GNS3, VMWare, Visual Studio Code, Git
-- **Languages:** Python, Tailwind, Firebase, JavaScript
   <div align="center" style="position: relative;">
   <!-- Colorful Patterns as background using SVG -->
   <svg height="110" width="100%" style="position:absolute; left:0; top:0; z-index:-1; opacity:0.1;">
