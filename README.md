@@ -6,7 +6,7 @@ NOVIA EAST AFRICA LIMITED
 ISP PROVIDER, KENYA.
 
 **Network Maintenance Technician | System Administrator | Graphic Designer 
-📍 Nairobi, Kenya | 📧 deevid679@gmail.com | 🔗 [LinkedIn Profile](#)  
+📍 Nairobi, Kenya | 📧 deevid679@gmail.com | 
 📡 Fiber Optics • Network Infrastructure • Vibe Coder-Prompt Engineering • UI/UX Designer
 
 ---
