@@ -63,15 +63,6 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
 
 ---
 
-## 💻 Tech Stack
-
-JavaScript • Cloudflare • Firebase • Vercel • TailwindCSS • React  
-Apache • Redis • Adobe Suite (Illustrator, Lightroom)  
-Figma • Canva • Blender • TensorFlow  
-GitHub • Cisco • Ubiquiti • Portfolio • Notion • Meta
-
----
-
 ## 📊 GitHub Stats
 
 ![DavidGitonga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidGitonga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
