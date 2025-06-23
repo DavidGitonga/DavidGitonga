@@ -27,33 +27,62 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
 - **Tools:** Wireshark, GNS3, VMWare, Visual Studio Code, Git
 - **Languages:** Python, Tailwind, Firebase, JavaScript 
 
+Welcome to my GitHub profile. Here’s a snapshot of what I do and how you can connect with me.
+
 ---
-🌐 Socials:
-[LinkedIn](https://linkedin.com/in/David Gitonga ) email
 
-💻 Tech Stack:
-JavaScript Cloudflare Firebase Vercel TailwindCSS React Apache Redis Firebase Adobe Adobe Illustrator Figma Canva Blender Adobe Lightroom TensorFlow GitHub Cisco Ubiquiti Portfolio Notion Meta
+## 🌐 Socials
 
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DavidGitonga &theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+- [LinkedIn](https://linkedin.com/in/DavidGitonga)
+- 📧 Email: [Click to Email](mailto:your-email@example.com) <!-- Replace with your actual email if you want to share it -->
 
-![](https://nirzak-streak-stats.vercel.app/?user=DavidGitonga &theme=dark&hide_border=false)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGitonga &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack
 
-🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DavidGitonga &theme=aura&no-frame=true&no-bg=false&margin-w=4)
+JavaScript • Cloudflare • Firebase • Vercel • TailwindCSS • React  
+Apache • Redis • Adobe Suite (Illustrator, Lightroom)  
+Figma • Canva • Blender • TensorFlow  
+GitHub • Cisco • Ubiquiti • Portfolio • Notion • Meta
 
-✍️ Random Dev Quote
+---
 
+## 📊 GitHub Stats
 
-🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DavidGitonga &limit=5&theme=dark&combine_all_yearly_contributions=true)
+![DavidGitonga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidGitonga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://visitcount.itsvg.in/api?id=DavidGitonga &icon=3&color=8)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DavidGitonga&theme=dark&hide_border=false)
 
-💰 You can help me by Donating
-PayPal
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGitonga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=DavidGitonga&theme=aura&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote
+
+<!-- You can use a quote generator API or manually update this section -->
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## 🔝 Top Contributed Repos
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=DavidGitonga&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=DavidGitonga&icon=3&color=8)
+
+---
+
+## 💰 Support
+
+You can help me by donating via [PayPal](https://paypal.me/your-link) <!-- Replace with your actual PayPal link -->
 
 ---
 
