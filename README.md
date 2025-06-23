@@ -70,7 +70,8 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DavidGitonga&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGitonga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-English and Swahili
+
+## 🇰🇪 English and Swahili
 ---
 
 ## 🏆 GitHub Trophies
