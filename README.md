@@ -79,7 +79,7 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Developer Byte
 
 <!-- You can use a quote generator API or manually update this section -->
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
