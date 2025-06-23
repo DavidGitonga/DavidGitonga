@@ -13,7 +13,7 @@ ISP PROVIDER, KENYA.
 
 ## 💡 About Me
 
-I am a detail-oriented and mission-driven Computer Science graduate with hands-on experience in **network engineering**, **system administration**, and **graphic design**. I thrive in environments that demand **real-time troubleshooting**, **network optimization**, and **graphic UI design**.
+I am a detail-oriented and mission-driven Computer Science Major with hands-on experience in **network engineering**, **system administration**, and **graphic design**. I thrive in environments that demand **real-time troubleshooting**, **network optimization**, and **graphic UI design**.
 
 With both hospital-grade IT support and infrastructure-level fiber maintenance under my belt, I aim to bridge **technical efficiency** with **end-user satisfaction**. My career objective is to deliver scalable and secure IT solutions that transform how teams communicate, diagnose, and solve problems.
 
