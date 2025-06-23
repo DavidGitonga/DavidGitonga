@@ -70,7 +70,7 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DavidGitonga&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGitonga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+English and Swahili
 ---
 
 ## 🏆 GitHub Trophies
@@ -82,17 +82,13 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
 ## ✍️ Developer Byte
 
 <!-- You can use a quote generator API or manually update this section -->
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Code is like humor. Only Vibe Coders in 2025 get the joke." – Cory House
 
 ---
 
 ## 🔝 Top Contributed Repos
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=DavidGitonga&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=DavidGitonga&icon=3&color=8)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=DavidGitonga 
 
 ---
 
