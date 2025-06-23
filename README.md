@@ -28,38 +28,32 @@ With both hospital-grade IT support and infrastructure-level fiber maintenance u
 - **Languages:** Python, Tailwind, Firebase, JavaScript 
 
 ---
+🌐 Socials:
+[LinkedIn](https://linkedin.com/in/David Gitonga ) email
 
-## 🧰 Projects & Labs
+💻 Tech Stack:
+JavaScript Cloudflare Firebase Vercel TailwindCSS React Apache Redis Firebase Adobe Adobe Illustrator Figma Canva Blender Adobe Lightroom TensorFlow GitHub Cisco Ubiquiti Portfolio Notion Meta
 
-### 🛠️ `network-topology-lab`
-> Simulated enterprise-grade network topology using Cisco Packet Tracer.  
-Features: VLAN segmentation, DHCP setup, redundant routes, and ACL firewall rules.
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DavidGitonga &theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-🔗 [View Repository](#)
+![](https://nirzak-streak-stats.vercel.app/?user=DavidGitonga &theme=dark&hide_border=false)
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGitonga &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🩺 `hospital-it-support-scripts`
-> A collection of Bash & Python scripts used during my time supporting P.C.E.A Chogoria Mission Hospital.  
-Automates backup, user management, and EHR log maintenance.
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DavidGitonga &theme=aura&no-frame=true&no-bg=false&margin-w=4)
 
-🔗 [View Repository](#)
+✍️ Random Dev Quote
 
----
 
-### 🔍 `cybersecurity-playground`
-> Personal sandbox environment for learning ethical hacking, network sniffing, and writing firewall rules.  
-Includes Wireshark captures, Nmap scripts, and intrusion logs.
+🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DavidGitonga &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🔗 [View Repository](#)
+![](https://visitcount.itsvg.in/api?id=DavidGitonga &icon=3&color=8)
 
----
-
-### 🌐 `fiber-optics-maintenance-log`
-> Documentation project for tracking fiber installations, splicing tests, OTDR reports, and service issues.  
-Structured in Markdown + CSV logs to maintain field clarity and audit readiness.
-
-🔗 [View Repository](#)
+💰 You can help me by Donating
+PayPal
 
 ---
 
